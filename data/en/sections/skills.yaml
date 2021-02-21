@@ -19,25 +19,25 @@ skills:
 - name: LaTeX
   logo: "/images/sections/skills/TeX_logo.png"
   summary: "Using LaTeX for scientific and technical writing. PhD Thesis written in Rmarkdown/LaTeX."
-  url: "https://golang.org/"
+  url: "https://latex-project.org/"
 
-- name: Cloud Computing
-  logo: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+- name: Agriculture
+  logo: "/images/sections/skills/agriculture.svg"
+  summary: "Worked in distinct areas of agriculture, from soil fertility to plant protection and grazing management."
 
-- name: Docker
-  logo: "/images/sections/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+# - name: Docker
+#   logo: "/images/sections/skills/docker.svg"
+#   summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+#   url: "https://www.docker.com/"
 
-- name: Prometheus
+- name: Machine Learning
   logo: "/images/sections/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+  summary: "Employed distintic machine learning algorithm for regression and classification tasks"
+  url: "https://b3.com.br/"
 
-- name: Linux
-  logo: "/images/sections/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+- name: Spectroscopy
+  logo: "/images/sections/skills/spectroscopy.png"
+  summary: "Using light interactions to learn the properties of objects."
 
 - name: Git
   logo: "/images/sections/skills/git.png"
