@@ -24,16 +24,16 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Development of Remote Sensing Techniques, particularly UAV-based, for Soil Quality assessment.
-    - Experimental Design and Data Analysis
-    - Scientific Writing and Publication
+    - Experimental Design and Data Analysis.
+    - Scientific Writing and Publication.
     
   - designation: PhD Candidate
     start: May 2016
     end: May 2021
     responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+    - Experimental Design and Research Plan Development.
+    - Data Collection and Analysis.
+    - Scientific Writing and Publication.
 
 - company:
     name: AB Ag Imagery

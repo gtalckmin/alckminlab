@@ -2,15 +2,15 @@
 section:
   name: Achievements
   id: achievements
-  enable: true
+  enable: false
   weight: 7
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
+- title: Double Degree PhD (WUR and UTAS)
   image: /images/sections/achievements/presenter.jpg
   summary: Best presenter in the 2020 XYZ conference.
 - title: Dairy Australia Scholarship Recipient
