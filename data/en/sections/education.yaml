@@ -10,80 +10,80 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
+- name: Ph.D in Remote Sensing
   icon: fa-microscope
-  timeframe: 2016-2020
+  timeframe: 2016-2021
   institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
+    name: University of Tasmania (AUS) and Wageningen University (NL)
+    url: "https://www.wur.nl/en/Persons/Gustavo-G-Gustavo-Togeiro-de-Alckmin.htm"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.6
+  #   outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
+  - title: Comparing methods to estimate perennial ryegrass biomass
+    url: "https://doi.org/10.1007/s11119-020-09737-z"
+  - title: Retrieval of Crude Protein in Perennial Ryegrass Using Spectral Data 
+    url: "https://doi.org/10.3390/rs12182958"
+  - title: Retrieval of Hyperspectral Information from Multispectral Data.
+    url: "https://doi.org/10.3390/s20247192"
+- name: M.Sc. in Sustainable Agriculture (AgrisMundus)
   icon: fa-graduation-cap
-  timeframe: 2012-2016
+  timeframe: 2012-2014
   institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    name: Montpellier SupAgro (FR) and Universidad Politecnica de Madrid (ES)
+  #   url: "#"
+  # grade: #(optional)
+  #   scale: CGPA
+  #   achieved: 3.5
+  #   outOf: 4
+  # takenCourses: #(optional)
+  #   # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+  #   showGrades: true
+  #   courses:
+  #   - name: Data Structures and Algorithm
+  #     achieved: 3.75
+  #     outOf: 4
+  #   - name: Network Security
+  #     achieved: 3.80
+  #     outOf: 4
+  #   - name: Operating System
+  #     achieved: 3.5
+  #     outOf: 4
+  #   - name: Artificial Intelligent
+  #     achieved: 3.75
+  #     outOf: 4
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
+  - title: Use of Remote Sensing Techniques to Enhance Forage Management:Unmanned Aerial Vehicles.
+    url: "https://doi.org/10.13140/RG.2.1.3821.0724"
+  # - title: Fusce eu augue ut odio porttitor pulvinar.
+  #   url: "#"
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+  - AgrisMundus Student Representative
+  - Short-term Scholar at Kansas State University
+  - Market Consultant for RoboFlight (UAV startup)
+- name: Agronomic Engineering
   icon: fa-university
-  timeframe: 2010-2012
-  institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
-  icon: fa-school
   timeframe: 2005-2010
   institution:
-    name: JK School of Science
-  grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    name: University of São Paulo - Luiz de Queiroz College of Agriculture
+    url: "http://www.en.esalq.usp.br/"
+  # grade: #(optional)
+  #   scale: GPA
+  #   achieved: 5
+  #   outOf: 5
+  extracurricularActivities: #(optional)
+  - Equine-assisted therapy
+  - GIS Teaching Assistant
+  - Several Agricultural and Research Internships 
+  - Exchange BSc. and MSc. levels at Texas Tech and Wageningen University
+#   - Pellentesque ut fringilla magna.
+# - name: Secondary School Certificate
+#   icon: fa-school
+#   timeframe: 2005-2010
+#   institution:
+#     name: JK School of Science
+#   grade: #(optional)
+#     scale: GPA
+#     achieved: 4.5
+#     outOf: 5

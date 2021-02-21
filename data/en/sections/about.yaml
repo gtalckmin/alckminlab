@@ -8,11 +8,11 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Post Doctoral Researcher
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Wageningen University
+  url: "https://wur.nl"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"
@@ -41,7 +41,7 @@ socialLinks:
 
 - name: Twitter
   icon: "fab fa-twitter"
-  url: "#"
+  url: "https://twitter.com/GustavoTA8"
 
 # - name: Facebook
 #   icon: "fab fa-facebook"
@@ -51,23 +51,23 @@ socialLinks:
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
 softSkills:
-- name: Leadership
-  percentage: 85
+- name: R
+  percentage: 95
   color: blue
-- name: Team Work
+- name: LaTeX
   percentage: 90
   color: yellow
-- name: Communication
+- name: Inkscape
   percentage: 85
   color: pink
-- name: Hard Working
+- name: RMarkdown
   percentage: 85
   color: green
-- name: Fast Learner
+- name: Stats
   percentage: 85
   color: sky
-- name: Problem Solving
-  percentage: 85
+- name: Ag Tech
+  percentage: 100
   color: orange
 # you can also provide color code instead of pre-defined color name
 # - name: Example 1

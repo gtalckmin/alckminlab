@@ -11,14 +11,14 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: R Programming
+  logo: "/images/sections/skills/Rlogo.png"
+  summary: "Programming in R for the past 10+ years. A cosmos in intself."
+  url: "https://www.r-project.org/"
 
-- name: Go Development
-  logo: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: LaTeX
+  logo: "/images/sections/skills/TeX_logo.png"
+  summary: "Using LaTeX for scientific and technical writing. PhD Thesis written in Rmarkdown/LaTeX."
   url: "https://golang.org/"
 
 - name: Cloud Computing
@@ -41,9 +41,9 @@ skills:
 
 - name: Git
   logo: "/images/sections/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  summary: "Experienced with git-based development. Mostly, use Gitlab (WUR). Also, have experience in working with GitHub."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: "/images/sections/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: UAV Pilot
+  logo: "/images/sections/skills/uav.svg"
+  summary: "UAV (RPAS) Pilot. Australian License "
