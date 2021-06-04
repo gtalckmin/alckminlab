@@ -8,10 +8,10 @@ section:
   template: sections/about.html
 
 # your designation
-designation: PhD Graduate
+designation: "PhD Graduate"
 # your company information
 company:
-  name: Wageningen University and UTAS
+  name: "Wageningen University and UTAS"
   url: "https://wur.nl"
 
 # your resume. this file path should be relative to you "static" directory
