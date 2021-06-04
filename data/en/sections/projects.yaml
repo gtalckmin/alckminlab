@@ -41,7 +41,7 @@ projects:
 
 - name: PhD Thesis. 
   role: Candidate
-  timeline: "May 2016 - Apr 2021"
+  timeline: "May 2016 - May 2021"
   url: "https://doi.org/10.18174/544521"
   summary: From field to airborne spectroscopy – advancing spectral data analytics for accurate retrieval of perennial ryegrass biomass and feed quality. 
   tags: ["academic","iot"]
