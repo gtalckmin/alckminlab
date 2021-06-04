@@ -21,13 +21,13 @@ buttons:
 
 # your projects
 projects:
-- name: Soil Quality and Remote Sensing
+- name: Google Earth Engine (GEE)
   logo: /images/sections/projects/soil.png
-  role: Contributor
+  role: Developer
   timeline: "March 2018 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Production-Grade Container Scheduling and Management.
+  summary: Working with GEE :)
   tags: ["professional","academic"]
 
 - name: Coursera Data Science Specialization
@@ -42,7 +42,7 @@ projects:
 - name: PhD Thesis. 
   role: Candidate
   timeline: "May 2016 - Apr 2021"
-  url: "https://www.example.com"
+  url: "https://doi.org/10.18174/544521"
   summary: From field to airborne spectroscopy – advancing spectral data analytics for accurate retrieval of perennial ryegrass biomass and feed quality. 
   tags: ["academic","iot"]
 

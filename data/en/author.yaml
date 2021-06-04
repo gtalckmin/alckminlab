@@ -6,13 +6,13 @@ greeting: "Hi, I am"
 image: "images/author/Gustavo.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
-  email: "gustavo.alckmin@wur.nl"
+  email: "gustavo.alckmin@utas.edu.au"
   phone: "+31317481604"
 
 # some summary about what you do
 summary:
   - I am a Ag-Tech Professional
-  - I am a Researcher @WUR
+  - I strive to make great quality research :D
   - I work with R ;)
   - I work on Remote Sensing
   - Farming is happiness 
