@@ -33,7 +33,7 @@ skills:
 - name: Machine Learning
   logo: "/images/sections/skills/prometheus.png"
   summary: "Employed distintic machine learning algorithm for regression and classification tasks"
-  url: "https://b3.com.br/"
+  # url: "https://b3.com.br/"
 
 - name: Spectroscopy
   logo: "/images/sections/skills/spectroscopy.png"

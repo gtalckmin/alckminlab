@@ -11,20 +11,20 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Wageningen University
-    url: "https://wur.nl"
-    location: Wageningen, Netherlands
+    name: University of Missouri
+    url: "https://cafnr.missouri.edu/"
+    location: Columbia (MO), United States
     # company overview
-    overview: Wageningen is the top-ranked agricultural University.
+    overview: Mizzou offers innovative solutions for precision pasture management.
   positions:
   - designation: Post Doctoral Researcher
-    start: April 2021
+    start: August 2021
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Development of Remote Sensing Techniques, particularly UAV-based, for Soil Quality assessment.
-    - Experimental Design and Data Analysis.
+    - Development of Remote Sensing Techniques, particularly satellite-based time-series, for biomass estimation.
+    - Development of canopy-height sensor and web-based applications.
     - Scientific Writing and Publication.
     
   - designation: PhD Candidate
