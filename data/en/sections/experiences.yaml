@@ -27,13 +27,17 @@ experiences:
     - Development of canopy-height sensor and web-based applications.
     - Scientific Writing and Publication.
     
-  - designation: PhD Candidate
-    start: May 2016
-    end: May 2021
-    responsibilities:
-    - Experimental Design and Research Plan Development.
-    - Data Collection and Analysis.
-    - Scientific Writing and Publication.
+# - company:
+#     name: Wageningen University and University of Tasmania
+#     url: "wur.nl"
+#     location: Hobart
+#   - designation: PhD Candidate
+#     start: May 2016
+#     end: May 2021
+#     responsibilities:
+#     - Experimental Design and Research Plan Development.
+#     - Data Collection and Analysis.
+#     - Scientific Writing and Publication.
 
 - company:
     name: AB Ag Imagery
