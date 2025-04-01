@@ -1,4 +1,5 @@
 theme = "toha"
-baseURL = "http://alckminlab.netlify.app"
+baseURL = "https://alckminlab.io/"  # Set your custom domain
 languageCode = "en-us"
 title = "Alckmin Lab"
+publishDir = "docs"  # Output to the /docs folder for GitHub Pages
