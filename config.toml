@@ -1,5 +1,11 @@
-theme = "toha"
+theme = "bootstrap5"  # Use Bootstrap5 theme for Quarto
 baseURL = "https://alckminlab.io/"  # Set your custom domain
 languageCode = "en-us"
 title = "Alckmin Lab"
-publishDir = "docs"  # Output to the /docs folder for GitHub Pages
+publishDir = "_site"  # Quarto's default output directory
+
+# Add Quarto-specific configurations
+[quarto]
+  toc = true  # Enable table of contents
+  toc-depth = 3  # Set TOC depth
+  format = "html"  # Output format

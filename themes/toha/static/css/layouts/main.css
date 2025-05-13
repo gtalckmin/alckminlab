@@ -14,8 +14,8 @@ Yellow:  #FFC212
 */
 
 body {
+  font-family: "Roboto", sans-serif; /* Use a Quarto-compatible font */
   background-color: #f9fafc;
-  font-family: "Muli";
 }
 
 h1,
